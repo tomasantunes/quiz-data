@@ -1,0 +1,1989 @@
+// Nota: Copiado do jogo de cartas da Goodis
+[
+    {
+        "question": "Qual destes daria uma password mais segura?",
+        "answers": [
+            "Catia99",
+            "Bolinhaogato",
+            "DFG8!754gfu",
+            "São todas igualmente seguras"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "O que significa dois computadores estarem \"ligados em rede\"?",
+        "answers": [
+            "Têm uma rede mosquiteira",
+            "Partilham informação e equipamento",
+            "Estão ligados por um cabo USB",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A Xbox original continha partes de transmissões (de áudio) de verdadeiras missões do programa Apollo.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O primeiro computador do mundo pesava quase tanto como...",
+        "answers": [
+            "Um guaxinim fêmea",
+            "Oito elefantes asiáticos macho",
+            "Dois ursos polares",
+            "Cinco piriquitos macho"
+        ],
+        "solution": 1,
+        "extra_info": "30 toneladas"
+    },
+    {
+        "question": "O primeiro rato de computador do mundo era feito de...",
+        "answers": [
+            "Plástico",
+            "Alumínio",
+            "Madeira",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Quando se ligam à internet, os computadores precisam de estar identificados. Para isto, é-lhes atribuído...",
+        "answers": [
+            "Um endereço de IP",
+            "Um cartão de idnetificação",
+            "Um software específico",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destas não é uma das 10 palavras mais pesquisadas (mundialmente) no Google em 2020?",
+        "answers": [
+            "Hotmail",
+            "Youtube",
+            "Google",
+            "Maps"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "O primeiro computador do mundo ocupava mais ou menos tanto espaço como seis autocarros estacionados lado-a-lado.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0,
+        "extra_info": "180m^3"
+    },
+    {
+        "question": "Qual foi a primeira palavra a ser automaticamente corrigida pelo corretor ortográfico?",
+        "answers": [
+            "teh",
+            "qeu",
+            "aet",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0,
+    },
+    {
+        "question": "Originalmente o que significa a palavra androide?",
+        "answers": [
+            "Ser com forma humana",
+            "Ser com forma masculina",
+            "Ser com forma feminina",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes materiais é um melhor condutor de calor?",
+        "answers": [
+            "Cobre",
+            "Diamante",
+            "Alumínio",
+            "Madeira"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A inteligência artificial é um processo através do qual os computadores podem aprender e tomar decisões.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "A tecnologia é o uso do conhecimento para inventar novos aparelhos e ferramentas.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destas não é uma rede social?",
+        "answers": [
+            "TikTok",
+            "Facebook",
+            "Gmail",
+            "Hi5"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Na animação o que é que a realidade 3D veio acrescentar à realidade 2D?",
+        "answers": [
+            "Profundidade",
+            "Qualidade de áudio",
+            "Bidimensionalidade",
+            "Cheiro"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Para te ligares à internet num local público, vais usar...",
+        "answers": [
+            "Bluetooth",
+            "Wi-fi",
+            "Infravermelhos",
+            "Internet por cabo"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro frigorífico doméstico chamava-se FRESCOTE.",
+        "answers": [
+            "Verdadeiro",
+            "Falso",
+        ],
+        "solution": 1,
+        "extra_info": "Chamava-se DOMELRE"
+    },
+    {
+        "question": "Qual destas não utiliza inteligência artificial?",
+        "answers": [
+            "Reconhecimento facial",
+            "Assistentes virtuais",
+            "Colunas bluetooth",
+            "Todos os anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Quando foi inventada a tecnologia para produzir eletricidade?",
+        "answers": [
+            "Século XVII",
+            "Século XVI",
+            "Século XVIII",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Para que serve a eletricidade?",
+        "answers": [
+            "Iluminação de espaços",
+            "Conservar alimentos",
+            "Melhoria da qualidade de vida",
+            "Todas as anteriores"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "O telefone foi inventado em 1876 na Rússia.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Foi nos EUA"
+    },
+    {
+        "question": "A escala de eficiência energética, para eletrodomésticos, vai de...",
+        "answers": [
+            "A-C",
+            "A-G",
+            "A-K",
+            "A-X"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes não é tecnicamente um robô?",
+        "answers": [
+            "Aspirador robô",
+            "Robô de peluche",
+            "Robô androide",
+            "Braço robótico"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Os produtos eletrónicos...",
+        "answers": [
+            "...precisam de eletricidade",
+            "...usam chips",
+            "...funcionam a pilhas",
+            "Todos os anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O Google Chrome tem um minijogo escondido que envolve...",
+        "answers": [
+            "Um pinguim e um iglo",
+            "Um T-Rex e os catos",
+            "Tetris 2000",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro micro-ondas chama-se Radarange.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destas resinas sintéticas é muito usada em roupa, garrafas de água e balões?",
+        "answers": [
+            "PVC",
+            "PET",
+            "PEAD",
+            "Nylon"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Porque é que se decidiu usar o \"@\" nos endereços de email?",
+        "answers": [
+            "Parece-se com a letra \"a\"",
+            "Em inglês, \"@\" lê-se \"em\"",
+            "É bonito",
+            "Nenhuma razão em especial"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A televisão começou a ser utilizada na década de...",
+        "answers": [
+            "1950",
+            "1910",
+            "1930",
+            "1960"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual destes tipos de onda não é usada na transmissão de rádio?",
+        "answers": [
+            "AM",
+            "TM",
+            "FM",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que ano e onde foi inventado o telefone?",
+        "answers": [
+            "Em 1876, nos Estados Unidos",
+            "Em 1910, na Rússia",
+            "Em 2003, em Portugal",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes é um produto da tecnologia?",
+        "answers": [
+            "Pão",
+            "Telemóvel",
+            "Tomate genéticamente modificado",
+            "Todos"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A clepsidra é um dispositivo que envolve água a escorrer por um recipiente e a medição gradual da que resta. Esta ferramenta serve para medir...",
+        "answers": [
+            "A pressão da água",
+            "A inclinação",
+            "A passagem do tempo",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual era o nome do computador que fez história ao derrotar o campeão de xadrez Garry Kasparov em 1996?",
+        "answers": [
+            "Deep blue",
+            "Chiptest",
+            "Chessturn",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O primeiro frigorífico foi inventado com a intenção de manter a cerveja fresquinha.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quando recebes um email em que desconfias que se trata de um esquema de phishing (fraude), deves...",
+        "answers": [
+            "Abrir e ler o seu conteúdo",
+            "Marcar como lido",
+            "Não clicar em links e apagar",
+            "Queimar o computador"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "De onde surgiu o nome \"Bluetooth\"?",
+        "answers": [
+            "De um rei escandinavo",
+            "Do dente de um tubarão",
+            "De um comandante famoso",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Muitos jogos historicamente importantes foram criados por diversão fora de horas de trabalho.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes não é uma linguagem computacional?",
+        "answers": [
+            "Hypertalk",
+            "Ada",
+            "COBOL",
+            "Lica"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Os hologramas são feitos com câmaras.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "São feitos com lasers"
+    },
+    {
+        "question": "Qual a capacidade de armazenamento flash da primeira pen USB?",
+        "answers": [
+            "170 MB",
+            "32 MB",
+            "8 MB",
+            "1 GB"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "As câmaras fotográficas digitais usam película fotográfica.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual foi o primeiro telemóvel a usar um sistema operativo Android?",
+        "answers": [
+            "T-Mobile G1",
+            "Samsung Galaxy",
+            "LG Voyager",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Nos anos 80, foram lançados videojogos que excediam as capacidades dos computadores pessoais da altura.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano foram inventados os \"QR Codes\"?",
+        "answers": [
+            "1994",
+            "1990",
+            "2005",
+            "2014"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem é considerado o \"pai\" dos gráficos computacionais?",
+        "answers": [
+            "Ivan Edward Sutherland",
+            "Ada Lovelace",
+            "Gary Kildall",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que significa \"spam\"?",
+        "answers": [
+            "E-mail desejado",
+            "Lixo eletrónico",
+            "E-mail recebido",
+            "E-mail desviado"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O e-mail é um método que permite enviar e receber mensagens.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Um dos percursores da internet chamava-se NETAPI.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual o significado de \"tecnologia\"?",
+        "answers": [
+            "Produto da ciência e engenharia",
+            "Aplicação do conhecimento em diversas áreas de pesquisa",
+            "Técnica, arte e ofício",
+            "Todas as anteriores"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "O que significa password?",
+        "answers": [
+            "Código que garante o acesso a áreas restritas",
+            "Código morse",
+            "Palavra secreta",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual o instrumento utilizado para imprimir ficheiros?",
+        "answers": [
+            "Teclado",
+            "Impressora",
+            "Modem",
+            "Televisão"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A password mais utilizada a nível mundial é \"123456\".",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Que dispositivo converte sinais digitais em analógicos?",
+        "answers": [
+            "Transistor",
+            "Motherboard",
+            "CPU",
+            "Modem"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "O que é um GPS?",
+        "answers": [
+            "Sistema de navegação",
+            "Aparelho que carrega o computador",
+            "Ficheiro de imagem",
+            "Galáxia distante"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que significa fazer \"download\" de um ficheiro/aplicação?",
+        "answers": [
+            "Apagar",
+            "Modificar",
+            "Descarregar",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "\"Sputnik\" é o nome dado ao satélite natural da Terra.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Essa seria a lua"
+    },
+    {
+        "question": "O som anda mais depressa do que a luz.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "É ao contrário"
+    },
+    {
+        "question": "Se eu quiser fazer um desenho no computador qual o programa mais indicado?",
+        "answers": [
+            "Word",
+            "PowerPoint",
+            "Excel",
+            "Paint"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destas é uma vantagem da fibra óptica em compração com os convensionais cabos de cobre?",
+        "answers": [
+            "Aplicável a maiores distâncias",
+            "Maior velocidade",
+            "Maior fragilidade",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que década começaram as transmissões de rádio regulares, para fins de entretenimento?",
+        "answers": [
+            "1920",
+            "1940",
+            "1960",
+            "1980"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O endereço da primeira página web era \"http://info.cern.ch/hypertext/WWW/TheProject.html\".",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano foi patenteado o teclado de computador?",
+        "answers": [
+            "1868",
+            "1856",
+            "1874",
+            "1902"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano foi criado o primeiro frigorífico?",
+        "answers": [
+            "1825",
+            "1838",
+            "1843",
+            "1856"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "O primeiro website existente foi criado por que instituição?",
+        "answers": [
+            "CERN",
+            "NASA",
+            "WWW",
+            "MIT"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Os robôs nunca foram usados para propósitos militares.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "São usados por exemplo para encontrar e destruir explosivos"
+    },
+    {
+        "question": "Quem foi a primeira mulher a ir ao espaço?",
+        "answers": [
+            "Bridgit Mendler",
+            "Valentina Tereshkova",
+            "Alice Hopkins",
+            "Karen Brorington"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em média, qual destes quipamentos consome mais energia numa casa?",
+        "answers": [
+            "Micro-ondas",
+            "Telefone fixo",
+            "Máquina de lavar loiça",
+            "Frigorífico"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Em que ano é que os humanos chegaram à lua?",
+        "answers": [
+            "1971",
+            "1969",
+            "1985",
+            "1954"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destas classificações energéticas significa que o eletrodoméstico é mais sustentável?",
+        "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que significa \"QR Code\" em português?",
+        "answers": [
+            "Código de resposta rápida",
+            "Código de quatro rotas",
+            "Código de leitura por câmara",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Aproximadamente a que temperatura chegam os congeladores mais poderosos?",
+        "answers": [
+            "-30ºC",
+            "-80ºC",
+            "-96ºC",
+            "-20ºC"
+        ],
+        "solution": 2,
+        "extra_info": "Usados em laboratórios"
+    },
+    {
+        "question": "O que significa um programa ser \"malware\"?",
+        "answers": [
+            "Criado para danificar o seu computador",
+            "De má qualidade",
+            "Feito de algodão doce",
+            "Spam"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O primeiro software que permitia enviar emails chamava-se SNDMSG.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Uma password deve ser composta por...",
+        "answers": [
+            "Números, letras e símbolos",
+            "Números e letra",
+            "6 caractéres",
+            "4 caractéres"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O primeiro email enviado em 1971 continha palavras de um poema de William Shakespear.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O PANDA, O GIMP e o Word são exemplos de...",
+        "answers": [
+            "Hardware",
+            "Spyware",
+            "Software",
+            "Gumware"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "O que deves fazer para prevenir perdas de informação no teu computador?",
+        "answers": [
+            "Cópias de segurança",
+            "Instalar mais memória",
+            "Reiniciar o computador",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O teclado, o monitor e o CPU são exemplos de...",
+        "answers": [
+            "Hardware",
+            "Spyware",
+            "Software",
+            "Gumware"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O primeiro browser de internet chamava-se MOSAIC e foi lançado em 2006.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "1993"
+    },
+    {
+        "question": "As atualizações de antivirus são importantes, porque...",
+        "answers": [
+            "Controlam o software",
+            "Atualizam a proteção contra novos vírus",
+            "Reiniciam o computador",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Onde deves guardar as tuas cópias de segurança?",
+        "answers": [
+            "Na caixa de email",
+            "No próprio computador",
+            "Num disco externo",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Programas como o AVG, o McAfee e o PANDA são...",
+        "answers": [
+            "Antivírus",
+            "Vírus informáticos",
+            "Ferramentas de limpeza do computador",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que são cookies?",
+        "answers": [
+            "Pequenos ficheiros com informação",
+            "Pastas do antivírus",
+            "Um tipo de software",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "\"Terminar sessão\" tem o mesmo significado que...",
+        "answers": [
+            "Log in",
+            "Password",
+            "Log out",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Em que ano foi criado o primeiro vírus informático?",
+        "answers": [
+            "1958",
+            "1971",
+            "1990",
+            "2003"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual das seguintes opções simboliza gritar com alguém quando estás a comunicar por escrito?",
+        "answers": [
+            "ESCREVER TODAS AS PALAVRAS EM MAIÚSCULAS",
+            "Escrever com siglas",
+            "Usar pontos de exclamação!!!",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual foi o primeiro emoji a ser criado?",
+        "answers": [
+            ":)",
+            ":o",
+            "xD",
+            ":'("
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Os jogos também podem ter atualizações de software.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual a linguagem computacional mais usada?",
+        "answers": [
+            "C#",
+            "Swift",
+            "PHP",
+            "Java"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destas pessoas não foi à lua am 1969?",
+        "answers": [
+            "Neil Armstrong",
+            "William Hewlett",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que ano foi vendido o primeiro micro-ondas?",
+        "answers": [
+            "1958",
+            "1946",
+            "1933",
+            "1927"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Onde foi construída a primeira linha de metro pública?",
+        "answers": [
+            "Londres",
+            "Paris",
+            "Budapeste",
+            "Berlim"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Desde 2002 que se propôs que seria possível programar um computador para jogar xadrez.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Desde 1950"
+    },
+    {
+        "question": "Um bit pode ser...",
+        "answers": [
+            "Um 1",
+            "Um 0",
+            "Ambos",
+            "Nenhum"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual destes não é um estilo de video jogo?",
+        "answers": [
+            "Aventura",
+            "Realidade virtual",
+            "Estratégia",
+            "Desporto"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes não é um estilo de video jogo?",
+        "answers": [
+            "Aventura",
+            "Realidade virtual",
+            "Estratégia",
+            "Desporto"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que ano foi inventada a primeira máquina de costura funcional?",
+        "answers": [
+            "1880",
+            "1834",
+            "1810",
+            "1788"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Hoje em dia, apercentagem de mulheres e de homens que jogam videojogos é praticamente igual.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem inventou o primeiro computador pensado para o utilizador comum?",
+        "answers": [
+            "Steve Jobs e Stephen Wozniak",
+            "Bill Gates e Paul Allen",
+            "William Hewlett e David Packard",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que inventou William Symington usando um motor a vapor, uma vela, uma manivela e uma roda?",
+        "answers": [
+            "O comboio a vapor",
+            "O último avião a vapor",
+            "A trotinete a vapor",
+            "O barco a vapor"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Em 1976, o inventor Elisha Grey chegou ao Instituto Americano de patentes apenas horas depois do seu competidor, perdendo a oportunidade de patentear...",
+        "answers": [
+            "A máquina de escrever",
+            "O telefone",
+            "Os cães robôs",
+            "O telégrafo"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro termómetro foi inventado por Galileu.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem inventou o telégrafo sem fios?",
+        "answers": [
+            "Leonardo da Vinci",
+            "Guglielmo Marconi",
+            "Samuel F. B. Morse",
+            "Olivia Rodrigo"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro browser de internet chamava-se MOSAIC e foi lançado em 1993.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Que dispositivo é que converte luz solar em eletricidade?",
+        "answers": [
+            "Célula fotovoltaica",
+            "Telescópio refletor",
+            "Forno solar",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Para que serve um termopar?",
+        "answers": [
+            "Para medir a temperatura",
+            "Para produzir energia mecânica",
+            "Para produzir energia térmica",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Uma tomografia axial computadorizada (TAC) permite ver as estruturas internas do corpo como se fossem \"fatias\".",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem inventou o relógio de pêndulo?",
+        "answers": [
+            "Galileu",
+            "Maria Gaetana Agnesi",
+            "Christiaan Huydgens",
+            "Leonardo da Vinci"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Que aparelho foi apresentado ao governo holandês por Hans Lippershey em 1608?",
+        "answers": [
+            "Máquina fotográfica",
+            "Telescópio",
+            "Sanita",
+            "Batedeira elétrica"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Fio de soldar, muito utilizado para fazer ligações elétricas, é quase sempre feito a partir de que dois metais?",
+        "answers": [
+            "Chumbo e zinco",
+            "Plástico e zinco",
+            "Estanho e ouro",
+            "Chumbo e estanho"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Pouco tempo depois de ter sido fundada, a Atari (empresa de videojogos) recebeu um contrato para desenvolver uma versão eletrónica de ping-pong.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que ano foi patenteada a dinamite?",
+        "answers": [
+            "1867",
+            "1913",
+            "1850",
+            "1865"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Que tecnologia teve as suas origens quando Nicéphore Niépce praticava \"heliografia\" com papel, sais de prata e estanho?",
+        "answers": [
+            "Fotografia",
+            "Fogo de artifício",
+            "Paineis solares",
+            "Energia elétrica"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual é o nome formal de um detetor de mentiras?",
+        "answers": [
+            "Politécnico",
+            "Buscamentiras",
+            "Polígrafo",
+            "Anemómetro"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "A maioria dos videojogos não eram equipados para correr em computadores pessoais até...",
+        "answers": [
+            "Ao fim dos anos 1990",
+            "Ao início dos anos 1990",
+            "Ao início dos anos 2000",
+            "Ao fim dos anos 2000"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem inventou as películas de fotografia flexiveis?",
+        "answers": [
+            "Lucas Neto",
+            "George Eastman",
+            "Louis Daguerre",
+            "Linda Eastman"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quando é que os discos compactos (CD's) começaram a ser vendidos ao público?",
+        "answers": [
+            "1996",
+            "1982",
+            "1975",
+            "1980"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quando foi introduzido o DVD?",
+        "answers": [
+            "1995",
+            "1982",
+            "1990",
+            "1976"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes tem uma espessura parecida com a da fibra ótica?",
+        "answers": [
+            "Cabo de telefone",
+            "Cabo de vassoura",
+            "Fio de cabelo",
+            "Esparguete"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Um dos percursores da internet chamava-se ARPANET",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Alfred Nobel inventou a bomba nuclear.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Inventou a dinamite"
+    },
+    {
+        "question": "Qual destes não é um telemóvel?",
+        "answers": [
+            "Blackberry",
+            "iPod",
+            "iPhone",
+            "Razr"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes não serve para ouvir música?",
+        "answers": [
+            "Leitor de CD's",
+            "iPod",
+            "Leitor de cassetes",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Quem decidiu usar o \"@\" nos endereços de email?",
+        "answers": [
+            "Linda Eastman",
+            "George Eastman",
+            "Chris Evans",
+            "Ray Tomlinson"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destas fibras foi a primeira a ser produzida totalmente sinteticamente?",
+        "answers": [
+            "Algodão",
+            "Nylon",
+            "Elastano",
+            "Razr"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual foi o primeiro browser de computador?",
+        "answers": [
+            "Mosaic",
+            "Internet Explorer",
+            "MS-DOS",
+            "Nenhum destes"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes não encontrarias a bordo do Titanic?",
+        "answers": [
+            "Gramofone",
+            "Rádio",
+            "Leitor de DVD's",
+            "Nenhum destes"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "O primeiro email do mundo, enviado em 1971, continha apenas 3 palavras.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Duas letras"
+    },
+    {
+        "question": "Qual destes atalhos de teclado abre diretamente o \"task manager\" do windows?",
+        "answers": [
+            "Ctrl+Alt+Delete",
+            "Ctrl+Shift+Escape",
+            "Win+Shift+Escape",
+            "Win"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Que tipo de ondas usam os radares?",
+        "answers": [
+            "Ondas sónicas",
+            "Micro-ondas",
+            "Ondas ultravioleta",
+            "Ondas do mar"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quem foi o primeiro a usar ondas de rádio para transmitir vozes humanas?",
+        "answers": [
+            "Reginald Fessenden",
+            "Robert Lewandowski",
+            "George Eastman",
+            "Thomas Edison"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes foi o primeiro leitor de música portátil?",
+        "answers": [
+            "iPod",
+            "Walkman",
+            "Zune",
+            "Cassete"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes não é um formato de armazenamento de música?",
+        "answers": [
+            "AAC",
+            "JPEG",
+            "WAV",
+            "MP3"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que formato é que a informação é enviada, quando usamos a internet?",
+        "answers": [
+            "Pacotes de dados",
+            "Letras encriptadas",
+            "Ficheiros digitais completos",
+            "Linguagem dos duendes"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Aproximadamente quantas liguagens computadionais estão em utilização hoje em dia?",
+        "answers": [
+            "50",
+            "300",
+            "2000",
+            "6000"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual destes não corresponde a um dos primeiros computadores?",
+        "answers": [
+            "UNIVAC",
+            "ENIAC",
+            "SAGE",
+            "CERN"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Em qual destes países é que 90% dos telemóveis vendidos são à prova de água?",
+        "answers": [
+            "Tailândia",
+            "Japão",
+            "Emirados Árabes Unidos",
+            "Nenhuma das anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A prata é usada para produzir os filamentos das lâmpadas incandescentes.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "É o tungsténio, não a prata"
+    },
+    {
+        "question": "Qual destes não é um componente periférico?",
+        "answers": [
+            "Motherboard",
+            "Rato",
+            "Monitor",
+            "Teclado"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes não é um dos primeiros \"protocolos\" ou formas de utilizar a Internet?",
+        "answers": [
+            "FTP",
+            "Telnet",
+            "Gopher",
+            "Purwal"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Uma rede criada para permitir a comunicação dentro de uma organização chama-se...",
+        "answers": [
+            "Browser",
+            "Intranet",
+            "Internet",
+            "Email"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes sistemas operativos foi desenvolvido pelo Google?",
+        "answers": [
+            "iOS",
+            "Windows",
+            "Android",
+            "BlackberryOS"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Que invenção foi criada por Cornelis Drebbel?",
+        "answers": [
+            "Barco à vela",
+            "Submarino",
+            "Bicicleta",
+            "Computador"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quem criou o termo \"inteligência artificial\"?",
+        "answers": [
+            "Charles Bachman",
+            "Zinedine Zidane",
+            "John McCarthy",
+            "Oprah"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Como se chamava o primeiro super computador bem sucedido?",
+        "answers": [
+            "CDC 6600",
+            "ENIAC",
+            "Play 2000",
+            "Brutus 7895"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual era o nome do primeiro computador pessoal?",
+        "answers": [
+            "Apple lion",
+            "Apple 1",
+            "Altair",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Os primeiros moinhos transformavam a energia do vento em que tipo de energia?",
+        "answers": [
+            "Mecânica",
+            "Solar",
+            "Potencial",
+            "Elétrica"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que é que em 1829 atingia a velocidade de 58 km/hora?",
+        "answers": [
+            "Um submarino",
+            "Uma bicicleta",
+            "Uma locomotiva",
+            "Uma carruagem"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Quando foi lançado o primeiro smartphone?",
+        "answers": [
+            "1993",
+            "1998",
+            "2003",
+            "2010"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quem criou a linguagem computacional FORTRAN?",
+        "answers": [
+            "Bill Atkinson",
+            "John Blackus",
+            "Charli D'Amelio",
+            "Mark Zuckerberg"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Em que ano foi fundado o Google?",
+        "answers": [
+            "1994",
+            "1997",
+            "1998",
+            "2000"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "O que foi inventado por Igor Sikorsky em 1919?",
+        "answers": [
+            "O Helicóptero",
+            "O barco à vela",
+            "Os guardanapos",
+            "O gramofone"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano foi desenvolvido o primeiro microprocessador?",
+        "answers": [
+            "1971",
+            "1964",
+            "1952",
+            "1946"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Que tipo de ondas eletromagnéticas são usadas pelo Wi-Fi?",
+        "answers": [
+            "Ondas de rádio",
+            "Micro-ondas",
+            "Ondas infravermelhas",
+            "Ondas do mar"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Que problema informático se especulou que iria causar o caos mundial no início do ano 2000?",
+        "answers": [
+            "CryptoLocker",
+            "Y2K bug",
+            "The big 00's",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro comboio de passageiros transportava 450 pessoas a 24 km/hora.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual foi a primeira mensagem enviada pelo primeiro telégrafo elétrico?",
+        "answers": [
+            "Olá mundo!",
+            "Que coisas tem Deus realizado!",
+            "Teste",
+            "1, 2, 3"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quem inventou os computadores de alta velocidade, também conhecidos como supercomputadores?",
+        "answers": [
+            "Addison Rae",
+            "Alan Turing",
+            "Bill Atkinson",
+            "Seymour R. Cray"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual foi o formato inventado em 1987 para reduzir o tamanho de imagens e pequenas animações?",
+        "answers": [
+            "TIFF",
+            "JPEG",
+            "PNG",
+            "GIF"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destes foi o primeiro microprocessador?",
+        "answers": [
+            "Intel 4004",
+            "Intel 8088",
+            "Intel Pentium",
+            "MOS Technology 6502"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano foi enviada a primeira SMS?",
+        "answers": [
+            "1985",
+            "1992",
+            "1999",
+            "2001"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quando foi fundada a Microsoft?",
+        "answers": [
+            "1954",
+            "1967",
+            "1975",
+            "1985"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Quem inventou a primeira televisão completamente eletrónica?",
+        "answers": [
+            "Igor Sikorsky",
+            "Vladimir Zworykin",
+            "Olivia Rodrigo",
+            "Ryan Gosling"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "O primeiro submarino chegava a profunidade de 30-40 metros.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "4-5 metros"
+    },
+    {
+        "question": "Que tecnologia permite que se façam chamadas telefónicas através da internet?",
+        "answers": [
+            "VoIP",
+            "Ethernet",
+            "Bluetooth",
+            "XML"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destas foi lançada em 1994?",
+        "answers": [
+            "Nintendo Entertainment System",
+            "PlayStation",
+            "Xbox",
+            "Atari 2600"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes é conhecido pela sua patente sobre o rato de computador?",
+        "answers": [
+            "Reynold Johnson",
+            "Zach King",
+            "Douglas Engelbart",
+            "Michael Le"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "O que inventou Thomas Alva Edison em 1877?",
+        "answers": [
+            "Helicóptero",
+            "Fonógrafo",
+            "Bidé",
+            "Locomotiva"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Quem associou e começou a usar o termo \"bug\" para se referir a falhas computacionais?",
+        "answers": [
+            "Grace Hopper",
+            "Agatha Christie",
+            "Anita Borg",
+            "Ada Lovelace"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Um byte é quivalente a quantos bits?",
+        "answers": [
+            "5",
+            "8",
+            "12",
+            "50"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Que funcionalidade é muito usada para distinguir se o visitante de um website é humano ou não?",
+        "answers": [
+            "GOT YOU",
+            "CAPTCHA",
+            "CYBERSPY",
+            "ROBOTCATCHER"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Plug in é o nome dado a um programa de computador maligno.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Isso seria malware"
+    },
+    {
+        "question": "Qual o significado de WWW?",
+        "answers": [
+            "Web World Weird",
+            "World Wide Web",
+            "Wide Web World",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes não serve especificamente para guardar informação?",
+        "answers": [
+            "Cassete",
+            "Software",
+            "DVD",
+            "Todos os anteriores"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Em que ano foi inventado o primeiro jogo de computador?",
+        "answers": [
+            "1958",
+            "1970",
+            "1932",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Software são todos os dispositivos físicos (partes que conseguirias tocar) de um computador.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Isso seria o hardware"
+    },
+    {
+        "question": "O que representa o \"G\" em 5G?",
+        "answers": [
+            "Geração",
+            "Gigabyte",
+            "Galáxia",
+            "Gula"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual o nome (traduzido) do primeiro videojogo existente?",
+        "answers": [
+            "Guerra espacial",
+            "Ténis para dois",
+            "Ténis espacial",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual era o nome original do motor de busca agora conhecido como \"Google\"?",
+        "answers": [
+            "BackRub",
+            "BackITG",
+            "TummyAche",
+            "Daable"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Os computadores funcionam apenas com dois sinais digitais, o 0 (zero) e o 2 (dois).",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Funcionam com o 0 e o 1"
+    },
+    {
+        "question": "Software constitui a parte lógica de um computador, ou seja, o conjunto dos programas.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual destes formatos é de um ficheiro de vídeo?",
+        "answers": [
+            "MP3",
+            "MPEG",
+            "TIFF",
+            "JPG"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Que mineral é usado em equipamentos tecnológicos?",
+        "answers": [
+            "Cobre",
+            "Silicio",
+            "Mica",
+            "Todos os anteriores"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destes foi inventado primeiro?",
+        "answers": [
+            "E-mail",
+            "Internet",
+            "Tablet",
+            "Telemóvel"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O microfone, a câmara, o rato ou o teclado são canais pelos quais o computador recebe informação que lhe damos.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "O que significa a sigla \"PC\" em português?",
+        "answers": [
+            "Computador particular",
+            "Computador pessoal",
+            "Cascata perfeita",
+            "Nada"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Um disco rígido de 5MB em 1956 pesava aproximadamente o mesmo que...",
+        "answers": [
+            "Um cão",
+            "Dois ursos polares",
+            "Três girafas",
+            "Quatro rinocerontes"
+        ],
+        "solution": 1,
+        "extra_info": "Uma tonelada"
+    },
+    {
+        "question": "Qual destes formatos corresponde a um ficheiro de áudio?",
+        "answers": [
+            "WAV",
+            "PDF",
+            "TIF",
+            "MPEG"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual era o tempo de autonomia (em modo de espera) do primeiro telemóvel comercial?",
+        "answers": [
+            "24 horas",
+            "15 horas",
+            "8 horas",
+            "30 minutos"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "As fibras óticas são filamentos onde a luz é propagada ao ser refletida.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Para que pode ser usada a realidade virtual?",
+        "answers": [
+            "Praticar cirurgias",
+            "Visitas virtuais",
+            "Ambos",
+            "Nenhum"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Como se chamava o(a) primeiro(a) programador(a)?",
+        "answers": [
+            "Ada Lovelace",
+            "Charles Babbage",
+            "Hannah Duncan",
+            "Daniel Santos"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Quanto tempo era preciso para tirar uma fotografia com a primeira máquina fotográfica do mundo?",
+        "answers": [
+            "8 horas",
+            "20 minutos",
+            "5 minutos",
+            "4 segundos"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Em que ano é que foi inaugurada a World Wide Web para o público geral?",
+        "answers": [
+            "1978",
+            "1989",
+            "1991",
+            "2004"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual a percentagem de casas portuguesas com acesso à internet em 2019?",
+        "answers": [
+            "96,6%",
+            "80,9%",
+            "74,9%",
+            "1.03%"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Como se chamava o primeiro computador do mundo?",
+        "answers": [
+            "NHOCHI",
+            "NANA",
+            "IAEC",
+            "ENIAC"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "Qual destes não é um sistema operativo?",
+        "answers": [
+            "Windows",
+            "MAC-OS",
+            "Hardware",
+            "Linux"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Quando foram inventadas as máquinas de lavar loiça?",
+        "answers": [
+            "1950",
+            "1989",
+            "1886",
+            "1864"
+        ],
+        "solution": 2
+    },
+    {
+        "question": "Qual era o conteúdo (traduzido) da primeira SMS que alguma vez foi enviada?",
+        "answers": [
+            "Olá mundo",
+            "Teste 1, 2, 3",
+            "Feliz Aniversário",
+            "Feliz Natal"
+        ],
+        "solution": 3
+    },
+    {
+        "question": "\"Memória RAM\" significa memória...",
+        "answers": [
+            "Noturna temporária",
+            "De acesso aleatório",
+            "De acesso diário",
+            "De alto risco"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "Qual destes é um processador de texto, ou seja, um programa que permite escrever e editar texto?",
+        "answers": [
+            "Microsoft Word",
+            "Microsoft PowerPoint",
+            "Escritor profissional",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual é o dia mundial da segurança do computador?",
+        "answers": [
+            "30 de Novembro",
+            "5 de Maio",
+            "29 de Fevereiro",
+            "17 de Setembro"
+        ],
+        "solution": 0
+    },
+    {
+        "question": "Qual era o nome original do browser agora conhecido como \"Mozilla Firefox\"?",
+        "answers": [
+            "Mozilla Red Panda",
+            "Mozilla Phoenix",
+            "Mozilla FauxFox",
+            "Nenhum dos anteriores"
+        ],
+        "solution": 1
+    },
+    {
+        "question": "A energia nuclear utiliza a energia do sol.",
+        "answers": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "solution": 1,
+        "extra_info": "Essa seria a energia solar"
+    }
+]
